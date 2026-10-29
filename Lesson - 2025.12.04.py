@@ -11,6 +11,7 @@ inflation_rate = 0.35
 # Boolean - True/False
 
 a = 10
+
 name = "Jack"
 b = True
 c = 10.5
@@ -26,7 +27,7 @@ print(f"Welcome {username}")
 
 
 # %%
-# ! IF ELSE Opeators
+# ! IF ELSE Operators
 lesson_mark = 90
 
 if lesson_mark > 60:
