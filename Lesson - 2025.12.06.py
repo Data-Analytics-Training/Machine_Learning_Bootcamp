@@ -18,7 +18,7 @@
 # ! Lists
 fruits = ["Apple", "Banana", "Cherry", "Orange"]
 len(fruits)  # 4
-print("Number of fruids: ", len(fruits))
+print("Number of fruits: ", len(fruits))
 
 # ? Adding a new variable end of the list
 fruits.append("Watermelon")
@@ -131,7 +131,7 @@ def calculate_salary2(salary, tax_ratio):
 calculate_salary2(100, 0.25)
 
 # %%
-# ! Object Oriented Programming
+# ! Object-Oriented Programming
 
 
 class Cars:

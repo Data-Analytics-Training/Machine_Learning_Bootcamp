@@ -7,7 +7,18 @@ authors = [
     { name = "Onur DOKER", email = "odoker@msn.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "gymnasium>=1.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "plotly>=7.1.0",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.1.6",
+]
 
 [project.scripts]
 machine-learning-bootcamp = "machine_learning_bootcamp:main"
